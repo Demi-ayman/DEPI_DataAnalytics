@@ -1,0 +1,18 @@
+Insight(s) for Analysis
+Some of the questions I intend to answer in this dataset are;
+
+What are all times highest and lowest profit movie?
+What is all times top 10 movies which earn the highest profit?
+What is the all times highest and lowest budget movie?
+What is all times top 10 movies which have the highest budget?
+What is the All times highest and lowest revenue movie?
+What is all times top 10 movies which have the highest revenue?
+What is the All most popular and least popular movie?
+What is all times top 10 most popular which movie?
+
+
+Analyze the relationship between budget, revenue, and popularity to determine factors that contribute to a movie's success.
+
+Explore the impact of movie genres on popularity and revenue.
+
+authentication : 2lKflmKvn4xLkhkXMMfJEYs2pJ2_58ypjc1FErYC2m8yoei9S
